@@ -1,0 +1,31 @@
+﻿生成启动时间为 2018/11/19 18:47:23。
+     1>项目“F:\15pb学习项目\new\任务管理器\任务管理器\任务管理器.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\任务管理器.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "任务管理器Dlg.cpp"
+         任务管理器Dlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /Ix64\Debug\ /nologo /fo"x64\Debug\任务管理器.res" "任务管理器.rc" 
+       Link:
+         D:\Program Files\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\15pb学习项目\new\任务管理器\x64\Debug\任务管理器.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\15pb学习项目\new\任务管理器\x64\Debug\任务管理器.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\15pb学习项目\new\任务管理器\x64\Debug\任务管理器.lib" /MACHINE:X64 "x64\Debug\任务管理器.res"
+         x64\Debug\Clist_heap.obj
+         x64\Debug\Dlg.obj
+         x64\Debug\DlgThreadInfo.obj
+         x64\Debug\Dlg_app.obj
+         x64\Debug\Dlg_file.obj
+         x64\Debug\Dlg_module.obj
+         x64\Debug\Dlg_proc.obj
+         x64\Debug\ListModule.obj
+         x64\Debug\MylistCtrl.obj
+         x64\Debug\MylistCtrlApp.obj
+         x64\Debug\MyListCtrlFile.obj
+         x64\Debug\MyListThread.obj
+         x64\Debug\MyTable.obj
+         x64\Debug\stdafx.obj
+         "x64\Debug\任务管理器.obj"
+         "x64\Debug\任务管理器Dlg.obj"
+         任务管理器.vcxproj -> F:\15pb学习项目\new\任务管理器\x64\Debug\任务管理器.exe
+     1>已完成生成项目“F:\15pb学习项目\new\任务管理器\任务管理器\任务管理器.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.05
